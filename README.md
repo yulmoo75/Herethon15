@@ -1,6 +1,7 @@
 # Herethon15 프로젝트 구조
 
 Herethon/
+
 ├── Herethon_prj/    # 설정 파일
 
 ├── users/           # 유저 앱
